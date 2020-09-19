@@ -1,0 +1,12 @@
+{
+  "name": "グラブルマルチIDコピー",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "グランブルーファンタジー 救援ポップアップを開くだけで ID をコピーします",
+  "content_scripts": [
+    {
+      "matches": [ "http://game.granbluefantasy.jp/*" ],
+      "js": ["copy.js"]
+    }
+  ]
+}
