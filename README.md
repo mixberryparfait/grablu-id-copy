@@ -11,7 +11,7 @@
   
 2. ZIP を解凍
   
-3. URL に [chrome://extensions/](chrome://extensions/) と入力して拡張機能画面を開く (クリックして移動)
+3. URL に chrome://extensions/ と入力して拡張機能画面を開く
   
 
 4. デベロッパーモードを ON にして 3 で解凍したフォルダごとドラッグ
